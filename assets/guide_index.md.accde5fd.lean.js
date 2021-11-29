@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,e as o}from"./app.fc0211f0.js";const u='{"title":"\u5E8F","description":"","frontmatter":{},"relativePath":"guide/index.md","lastUpdated":1638151703343}',r={},_=o('',9),i=[_];function p(c,n,s,d,l,h){return a(),t("div",null,i)}var m=e(r,[["render",p]]);export{u as __pageData,m as default};
